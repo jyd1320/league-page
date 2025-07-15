@@ -1,18 +1,13 @@
 /*   STEP 1   */
-export const leagueID = "your_league_id"; // your league ID
-export const leagueName = "your_league_name"; // your league name
+export const leagueID = "1228778272695799808"; // your league ID
+export const leagueName = "Ultimate Football Championship"; // your league name
 export const dues = 100; // (optional) used in template constitution page
 export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Welcome to the Ultimate Football Championship (UFC), the premier dynasty fantasy football league forged in the fiery crucible of friendship and fermented beverages. This isn't your grandpa's redraft league; we're in it for the long haul, much like that regrettable tattoo you got on spring break. Conceived during a particularly spirited game night (and likely a few rounds of questionable shots), the UFC is where the strategic genius of dynasty football meets the unpredictable chaos of a group of friends who occasionally forget their own names, let alone their starting lineup. Trades are often sealed with a clink of glasses, draft picks are announced with a slurred flourish, and Commissioner JYD's decisions are, well, open to "reinterpretation" after a few IPAs. Expect questionable roster moves, wildly optimistic takes on third-stringers, and an unparalleled level of trash talk that somehow manages to get even funnier with each passing year (and beer). It's a glorious mess, and we wouldn't have it any other way.</p>
 `;
 
 /*   STEP 3   */
