@@ -291,7 +291,7 @@
     <h2 class="sectionHeading" bind:this={seven}>Section 7 League Finances</h2>
     
     <h3 bind:this={sevenOne}>7.1 League Dues</h3>
-    <p>League dues are set at {dues}$. Dues are collected through Venmo or Zelle by the commissioner.</a> All managers must be fully paid up before the start of the first game of week 5 of the NFL season. In the event that a manager fails to pay before the deadline, rosters will be locked until payment is made.</p>
+    <p>League dues are set at {dues}$. Dues are collected through Venmo or Zelle by the commissioner. All managers must be fully paid up before the start of the first game of week 5 of the NFL season. In the event that a manager fails to pay before the deadline, rosters will be locked until payment is made.</p>
     
     <h3 bind:this={sevenTwo}>7.2 Payout</h3>
     <p>League payout is structured as follows:</p>
