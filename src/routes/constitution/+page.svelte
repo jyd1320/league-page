@@ -298,7 +298,7 @@
         <li>1st place: {dues * 7}$</li>
         <li>2nd place: {dues * 2}$</li>
         <li>3rd place: {dues}$</li>
-        <li> 1st place consolation bracket: Compensetory 3rd Round Pick</li>
+        <li> 1st place consolation bracket: Compensatory 3rd Round Pick</li>
     </ul>
     
     <h3 bind:this={sevenThree}>7.3 Raising Dues</h3>
